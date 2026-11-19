@@ -74030,5 +74030,12 @@
     "author": "Lak",
     "description": "Turns canvas cards into first-class objects with inline editing, groups, connections and AI analysis. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "r529/volis"
+  },
+  {
+    "id": "local-harness",
+    "name": "Local Harness",
+    "author": "liankang0",
+    "description": "Run a local AI agent over your vault: it searches and edits notes with tools, shows a diff for every write, and can resume interrupted tasks on mobile.",
+    "repo": "liankang0/obsidian-agent"
   }
 ]
